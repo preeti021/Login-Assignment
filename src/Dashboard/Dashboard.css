@@ -1,0 +1,19 @@
+.Dashboard table{
+    width:95%;
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+    font-size: larger;
+}
+
+.Dashboard h2{
+    text-align: center;
+    color: rgb(255, 187, 0);
+}
+
+.Dashboard table tbody tr th{
+    border: 2px solid black;
+    margin: 0px;
+    background-color: rgb(50, 50, 95);
+    color: white;
+}
